@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWindowsService", "SimpleWindowsService\SimpleWindowsService.csproj", "{D67E4549-6AAC-42A0-B3F2-BB2B5C471096}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSimpleWindowsService", "SetupSimpleWindowsService\SetupSimpleWindowsService.vdproj", "{08B2B178-8108-4550-A08E-22B23CF9C92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67E4549-6AAC-42A0-B3F2-BB2B5C471096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E4549-6AAC-42A0-B3F2-BB2B5C471096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E4549-6AAC-42A0-B3F2-BB2B5C471096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E4549-6AAC-42A0-B3F2-BB2B5C471096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B2B178-8108-4550-A08E-22B23CF9C92B}.Debug|Any CPU.ActiveCfg = Debug
+		{08B2B178-8108-4550-A08E-22B23CF9C92B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
